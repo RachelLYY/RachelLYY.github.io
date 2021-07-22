@@ -1,0 +1,7 @@
+site_name: Liu Yan Yan RACHEL
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - About: projects.md
+theme: 
+    name: material
