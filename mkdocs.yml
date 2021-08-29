@@ -1,6 +1,6 @@
 site_name: My Docs
 theme: 
-      name: material
+      name: journal
       show_sidebar: false
 extra_css:
     - css/extra.css
